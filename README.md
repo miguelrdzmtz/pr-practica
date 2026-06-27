@@ -9,4 +9,4 @@ Aqui vas a aprender a:
 - Hacer commits
 - Abrir Pull Requests
 
-Es una herramienta muy util para colaborar en equipo, y te ayuda a recibir feedback antes de fusionar cambios al codigo principal.
+Es una herramienta muy util para colaborar en equipo, y te ayuda a recibir feedback antes de fusioner cambios al codigo principal.
